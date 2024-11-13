@@ -12,6 +12,7 @@
       },
       "banner": "https://kevinbudz.github.io/utr/banner.png",
       "altBanner": "https://kevinbudz.github.io/utr/banner.png"
+	  "executable": "UTReborn.exe"
     }
   ]
 }
