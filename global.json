@@ -6,8 +6,8 @@
       "description": "Brought back after three years.",
       "version": "4.v2",
       "urls": {
-        "swf": "https://raw.githubusercontent.com/username/flash-games/main/fancy-pants.swf",
-        "air": null,
+        "swf": null,
+        "air": "https://kevinbudz.github.io/utr/client.zip",
         "playerCount": null
       },
       "banner": "https://kevinbudz.github.io/utr/banner.png",
