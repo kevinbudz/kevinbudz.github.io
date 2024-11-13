@@ -10,8 +10,8 @@
         "air": null,
         "playerCount": null
       },
-      "banner": "/utr/banner.png",
-      "altBanner": "/utr/banner.png"
+      "banner": "https://kevinbudz.github.io/utr/banner.png",
+      "altBanner": "https://kevinbudz.github.io/utr/banner.png"
     }
   ]
 }
