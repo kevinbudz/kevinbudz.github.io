@@ -6,7 +6,7 @@
       "description": "Brought back after three years.",
       "version": "4.v2",
       "urls": {
-        "swf": null,
+        "swf": "https://kevinbudz.github.io/utr/client.swf",
         "air": "https://kevinbudz.github.io/utr/client.zip",
         "playerCount": null
       },
