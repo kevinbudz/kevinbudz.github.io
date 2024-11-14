@@ -13,6 +13,20 @@
       "altBanner": "https://kevinbudz.github.io/utr/banner.png",
 	  "playerCountUrl": "http://157.173.195.91:8080/app/getPlayers",
 	  "executable": "UT Realms.exe"
+    },
+	{
+      "id": "atb",
+      "title": "Attack the Boss",
+      "description": "© lexx, 2024.",
+      "version": "1.8.0",
+      "urls": {
+        "swf": null,
+        "air": "https://cdn.discordapp.com/attachments/1192740295750729752/1235908037638619270/AtB.zip?ex=6736804e&is=67352ece&hm=b622f1ee81bb711982ca319919739a926ad2f608ecb73688aa44abaa4bc27b30&"
+      },
+      "banner": "https://kevinbudz.github.io/atb/banner.png",
+      "altBanner": "https://kevinbudz.github.io/atb/banner.png",
+	  "playerCountUrl": null,
+	  "executable": "WebMain.exe"
     }
   ]
 }
