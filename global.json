@@ -3,8 +3,8 @@
     {
       "id": "utr",
       "title": "UT Reborn",
-      "description": "Brought back after three years.",
-      "version": "4.v2",
+      "description": "© kevinbudz, 2024.",
+      "version": "4.01",
       "urls": {
         "swf": "https://kevinbudz.github.io/utr/client.swf",
         "air": "https://kevinbudz.github.io/utr/client.zip",
@@ -12,7 +12,7 @@
       },
       "banner": "https://kevinbudz.github.io/utr/banner.png",
       "altBanner": "https://kevinbudz.github.io/utr/banner.png",
-	  "executable": "UTReborn.exe"
+	  "executable": "UT Realms.exe"
     }
   ]
 }
