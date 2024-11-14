@@ -26,7 +26,7 @@
       "banner": "https://kevinbudz.github.io/atb/banner.png",
       "altBanner": "https://kevinbudz.github.io/atb/banner.png",
 	  "playerCountUrl": null,
-	  "executable": "WebMain.exe"
+	  "executable": "AtB/WebMain.exe"
     }
   ]
 }
