@@ -7,7 +7,7 @@ Everything needed to add your server can be done by requesting to edit global.js
       "description": "© kevinbudz, 2024.", // i just attach my name here, up to you.
       "version": "4.01", // current game version.
       "urls": {
-        "swf": "https://kevinbudz.github.io/utr/client.swf", // URL to client .swf
+        "swf": "https://kevinbudz.github.io/utr/client.swf", // URL to client's .swf.
         "air": "https://kevinbudz.github.io/utr/client.zip" // URL to the AIR package, realmdex extracts the .zip inside of app.
       },
       "banner": "https://kevinbudz.github.io/utr/banner.png", // banner that displays in ServerList.
@@ -15,7 +15,7 @@ Everything needed to add your server can be done by requesting to edit global.js
 	  "playerCountUrl": "http://157.173.195.91:8080/app/getPlayers", // this is a URL that returns ONLY the amount of people that are online.
 	  "discordLink": "https://discord.gg/utr", // attach a discord link.
 	  "executable": "UT Realms.exe" // <-----
-    /* this is a headache to explain, if you download
+       /* this is a headache to explain, if you download
        the .zips for both UTR and Attack the Boss, you will
        see why these fields are listed the way they are. */
     },
