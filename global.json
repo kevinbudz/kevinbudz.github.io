@@ -11,11 +11,11 @@
       },
       "banner": "https://kevinbudz.github.io/utr/banner.png",
       "altBanner": "https://kevinbudz.github.io/utr/banner.png",
-	  "playerCountUrl": "http://157.173.195.91:8080/app/getPlayers",
-	  "discordLink": "https://discord.gg/utr",
-	  "executable": "UT Realms.exe"
+      "playerCountUrl": "http://157.173.195.91:8080/app/getPlayers",
+      "discordLink": "https://discord.gg/utr",
+      "executable": "UT Realms.exe"
     },
-	{
+    {
       "id": "atb",
       "title": "Attack the Boss",
       "description": "© lexx, 2024.",
@@ -26,9 +26,9 @@
       },
       "banner": "https://kevinbudz.github.io/atb/banner.png",
       "altBanner": "https://kevinbudz.github.io/atb/banner_alt.png",
-	  "playerCountUrl": null,
-	  "discordLink": "https://discord.gg/attacktheboss",
-	  "executable": "AtB/WebMain.exe"
+      "playerCountUrl": null,
+      "discordLink": "https://discord.gg/attacktheboss",
+      "executable": "AtB/WebMain.exe"
     }
   ]
 }
