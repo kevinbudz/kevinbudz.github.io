@@ -1,5 +1,5 @@
 # Adding your server to Realmdex.
-Everything needed to add your server can be done by requesting to edit global.json, details for what each field means are listed below. As well as an empty template for you to copy/paste.
+> Everything needed to add your server can be done by requesting to edit `global.json`, details for what each field means are listed below. As well as an empty template for you to copy/paste.
 ```json
     {
       "id": "utr", // usually an acronym of your server.
